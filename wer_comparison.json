@@ -1,0 +1,24 @@
+{
+  "my_voice": {
+    "wer": 0.0,
+    "wer_pct": 0.0,
+    "accuracy_pct": 100.0,
+    "substitutions": 0,
+    "insertions": 0,
+    "deletions": 0,
+    "hits": 62,
+    "ref_words": 62,
+    "hyp_words": 62
+  },
+  "partner_voice": {
+    "wer": 0.0,
+    "wer_pct": 0.0,
+    "accuracy_pct": 100.0,
+    "substitutions": 0,
+    "insertions": 0,
+    "deletions": 0,
+    "hits": 73,
+    "ref_words": 73,
+    "hyp_words": 73
+  }
+}
